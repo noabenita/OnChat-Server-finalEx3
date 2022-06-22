@@ -12,7 +12,7 @@
         {
             id = "or",
             nickname = "orush",
-            password = "1",
+            password = "Nn123456",
             image = "https://bootdey.com/img/Content/avatar/avatar3.png",
             contacts = new List<Contact>
                 { new Contact { id = "noa", name = "noale", server = "localhost:7242", last = "hiii", lastdate = "12:14" },
@@ -31,7 +31,7 @@
         {
             id = "dani",
             nickname = "div",
-            password = "1",
+            password = "Nn123456",
             image = "https://bootdey.com/img/Content/avatar/avatar6.png",
             contacts = new List<Contact>
             { new Contact { id = "noa", name = "noale", server = "localhost:7242", last = "see you", lastdate = "14:15" }},
